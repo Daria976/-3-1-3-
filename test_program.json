@@ -1,0 +1,20 @@
+{
+  "program": [
+    {
+      "command": "LOAD_CONST",
+      "operand": 876
+    },
+    {
+      "command": "READ_MEM",
+      "operand": 73
+    },
+    {
+      "command": "WRITE_MEM",
+      "operand": 63
+    },
+    {
+      "command": "DIV",
+      "operand": 147
+    }
+  ]
+}
