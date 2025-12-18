@@ -1,0 +1,13 @@
+{
+  "program": [
+    {"command": "LOAD_CONST", "operand": 1000},
+    {"command": "READ_MEM", "operand": 0},
+    {"command": "WRITE_MEM", "operand": 2000},
+    {"command": "LOAD_CONST", "operand": 1004},
+    {"command": "READ_MEM", "operand": 0},
+    {"command": "WRITE_MEM", "operand": 2004},
+    {"command": "LOAD_CONST", "operand": 1008},
+    {"command": "READ_MEM", "operand": 0},
+    {"command": "WRITE_MEM", "operand": 2008}
+  ]
+}
